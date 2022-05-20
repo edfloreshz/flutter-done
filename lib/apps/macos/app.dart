@@ -4,8 +4,8 @@ import 'package:macos_ui/macos_ui.dart';
 
 import '../../providers/navigation.dart';
 
-class MacApp extends ConsumerWidget {
-  const MacApp({Key? key}) : super(key: key);
+class MacApplication extends ConsumerWidget {
+  const MacApplication({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
